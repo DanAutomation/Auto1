@@ -4,9 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>SearchFunctionality</groupId>
-    <artifactId>Auto1</artifactId>
+    <groupId>RegistrationForm</groupId>
+    <artifactId>EvoPlay</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
     <build>
         <plugins>
             <plugin>
@@ -45,14 +47,6 @@
             <artifactId>selenium-remote-driver</artifactId>
             <version>3.12.0</version>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>org.testng</groupId>-->
-            <!--<artifactId>testng</artifactId>-->
-            <!--<version>6.8</version>-->
-            <!--<scope>test</scope>-->
-        <!--</dependency>-->
-
-
     </dependencies>
 
 </project>
